@@ -43,4 +43,4 @@ My goal is to build a meaningful career in cybersecurity, focusing on protecting
 
 ## Projects
 - <a href="https://github.com/crew2057/Home-SOC">Home SOC</a>
-- Threat Hunting
+- <a href="https://github.com/crew2057/Threat-Hunting">Threat Hunting</a>
