@@ -14,6 +14,7 @@ My goal is to build a meaningful career in cybersecurity, focusing on protecting
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/crew2057/Home-SOC">Home SOC</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/crew2057/Home-SOC">Home SOC</a>|
 | Incident Response                              | <a href="https://github.com/crew2057/Home-SOC">Home SOC</a>|
+| Detection Engineering | <a href="https://github.com/crew2057/Threat-Hunting">Threat Hunting</a> |
 
 ## Tools
 
