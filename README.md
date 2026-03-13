@@ -11,8 +11,9 @@ My goal is to build a meaningful career in cybersecurity, focusing on protecting
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/crew2057/Home-SOC">Home SOC</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/crew2057/Home-SOC">Home SOC</a>|
+| Incident Response                              | <a href="https://github.com/crew2057/Home-SOC">Home SOC</a>|
 
 ## Tools
 
@@ -37,11 +38,9 @@ My goal is to build a meaningful career in cybersecurity, focusing on protecting
 </div>
 
 ## Certifications
-<div>
-<a href="https://www.coursera.org/account/accomplishments/specialization/SXX3GL49Z9UV">Google Cybersecurity Specialization</a>
-| <a href="https://www.credly.com/badges/27f98a2d-27df-4d27-abd9-2fa13fd7ab90/public_url">ISC2 Certified in Cybersecurity</a>
-</div>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/SXX3GL49Z9UV">Google Cybersecurity Specialization</a>
+- <a href="https://www.credly.com/badges/27f98a2d-27df-4d27-abd9-2fa13fd7ab90/public_url">ISC2 Certified in Cybersecurity</a>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/crew2057/Home-SOC">Home SOC</a>
 - Threat Hunting
