@@ -1,5 +1,5 @@
 # Hello, I'm Rabi Prajapati
-<a href="https://www.linkedin.com/in/rabi-prajapati-2491a4178"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rabi-pjpt"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an individual with a strong passion for technological innovation, committed to developing and implementing new ideas that deliver valuable services while prioritizing the well-being of individuals. I am self-motivated, ambitious, and dedicated to continuous learning and professional growth, consistently demonstrating full commitment to my responsibilities.
 
