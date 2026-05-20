@@ -25,7 +25,7 @@ My goal is to build a meaningful career in cybersecurity, focusing on protecting
 - <a href="https://github.com/crew2057/Home-SOC">Home SOC</a>
 - <a href="https://github.com/crew2057/Threat-Hunting">Threat Hunting</a>
 - <a href="https://github.com/crew2057/Network-Security-Monitoring">Network Security Monitoring</a>
-
+<!--
 ## Tools
 
 ### Network
@@ -47,4 +47,4 @@ My goal is to build a meaningful career in cybersecurity, focusing on protecting
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
-
+-->
