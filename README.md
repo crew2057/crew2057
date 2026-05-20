@@ -13,11 +13,13 @@ My goal is to build a meaningful career in cybersecurity, focusing on protecting
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/crew2057/Home-SOC">Home SOC</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/crew2057/Home-SOC">Home SOC</a>, <a href="https://github.com/crew2057/Network-Security-Monitoring">Network Security Monitoring</a>|
+| Triaging and Documentation | <a href="https://github.com/crew2057/Threat-Mapping">Threat Mapping</a>
 | Incident Response                              | <a href="https://github.com/crew2057/Home-SOC">Home SOC</a>|
-| Detection Engineering | <a href="https://github.com/crew2057/Threat-Hunting">Threat Hunting</a> |
+| Threat Hunting | <a href="https://github.com/crew2057/Threat-Hunting">Threat Hunting</a> |
 
 
 ## Certifications
+- <a href="https://learn.microsoft.com/en-us/users/rabiprajapati-4589/credentials/fd4955da51affc20">Microsoft Certified: Security Operations Analyst Associate Certification</a>
 - <a href="https://www.coursera.org/account/accomplishments/specialization/SXX3GL49Z9UV">Google Cybersecurity Specialization</a>
 - <a href="https://www.credly.com/badges/27f98a2d-27df-4d27-abd9-2fa13fd7ab90/public_url">ISC2 Certified in Cybersecurity</a>
 
